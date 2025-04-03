@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Development
 
-__iy__ is an open-source project and its development is open to anyone who wants to participate.
+__IY Componenents__ it is the easiest and closest way to the JavaScript standard for creating web components.
 
 [![Issues](https://img.shields.io/badge/Issues-grey?style=for-the-badge)](https://github.com/pigeonposse/dovenv/issues)
 [![Pull requests](https://img.shields.io/badge/Pulls-grey?style=for-the-badge)]({{const.pkg.repository.url}}/pulls)
